@@ -17,22 +17,8 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
-  <component name="SbtLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../1stWeek" value="1457105870000" />
-        <entry key="$PROJECT_DIR$/../2ndWeek" value="1464276252000" />
-        <entry key="$PROJECT_DIR$" value="1464277370000" />
-        <entry key="$PROJECT_DIR$/../../2ndWeek/funsets" value="1462309040000" />
-        <entry key="$PROJECT_DIR$/../../3rdWeek/objsets" value="1462312046000" />
-        <entry key="$PROJECT_DIR$/../../4thWeek/objsets" value="1462312046000" />
-        <entry key="$PROJECT_DIR$/../../4thWeek/patmat" value="1462369264000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
   </component>
   <component name="masterDetails">
     <states>
